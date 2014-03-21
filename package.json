@@ -1,0 +1,37 @@
+{
+  "name": "angular-translate-extractor",
+  "version": "0.0.2",
+  "description": "An extractor for all the translation keys for angular-translate project",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/angular-translate/angular-translate-extractor.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "angular-translate",
+    "gulp",
+    "plugin",
+    "javascript",
+    "js",
+    "translate",
+    "i18n",
+    "extractor"
+  ],
+  "author": "Joon Ho Cho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angular-translate/angular-translate-extractor/issues"
+  },
+  "homepage": "https://github.com/angular-translate/angular-translate-extractor",
+  "devDependencies": {
+    "gulp": "^3.5.6",
+    "gulp-util": "^2.2.14",
+    "gulp-watch": "^0.5.3",
+    "gulp-jshint": "^1.5.0",
+    "gulp-nodeunit-runner": "^0.1.1"
+  }
+}
