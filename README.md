@@ -1,3 +1,5 @@
+# DO NOT USE THIS YET. WORK IN PROGRESS...
+
 # angular-translate-extractor
 
 Extract all the translation keys for angular-translate project
