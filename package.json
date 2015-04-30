@@ -22,6 +22,9 @@
     "extractor"
   ],
   "author": "Joon Ho Cho",
+  "contributors": [
+    "C.J. Winslow <whoaa512@gmail.com> (https://github.com/whoaa512)"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/angular-translate/angular-translate-extractor/issues"
