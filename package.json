@@ -1,6 +1,6 @@
 {
   "name": "angular-translate-extractor",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "An extractor for all the translation keys for angular-translate project",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,9 @@
     "extractor"
   ],
   "author": "Joon Ho Cho",
+  "contributors": [
+    "C.J. Winslow <whoaa512@gmail.com> (https://github.com/whoaa512)"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/angular-translate/angular-translate-extractor/issues"
@@ -33,5 +36,8 @@
     "gulp-watch": "^0.5.3",
     "gulp-jshint": "^1.5.0",
     "gulp-nodeunit-runner": "^0.1.1"
+  },
+  "dependencies": {
+    "lodash": "^3.7.0"
   }
 }
