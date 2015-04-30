@@ -1,6 +1,6 @@
 {
   "name": "angular-translate-extractor",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "An extractor for all the translation keys for angular-translate project",
   "main": "index.js",
   "scripts": {
